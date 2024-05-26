@@ -7,7 +7,22 @@ To know more about me, please feel free to contact me or visit my [LinkedIn](htt
 
 ## Project summary
 
-Please, see below a summary of a few projects showcasing my Data Science skills. For more details visit my [GitHub](https://github.com/JPonsa/)
+### Main Portfolio Project
+
+As part of my Health Data Science MSc dissertation at UCL, I have built a Knowledge Graph Retrieve Augmented Generation (KG-RAG) system that leverages Large Language Models to efficiently interrogate and analyse a large collection of clinical trial protocols from  ClinicalTrials.gov. 
+
+Key learnings:
+- Deploy open-source Large Language Models (LLMs), such as Llama3 or Mixtral8x7b, in High-Performance Computing (HPC) using vLLM.
+- Process semi-structured Clinical Trial Protocols using Non-SQL/MongoDB.
+- Creation and hosting of a Knowlege Graph using BioCypher and Neo4j AuraDB.
+- Implementation of a ReAct design using DSPy, creating custom tools that can be used by an LLM to query Knowledge Graphs and SQL dbs.
+- Use high-level frameworks such as Llama-index and LangChain for txt-2-SQL and txt-2-Cypher.
+- How to evaluate Large Language Models.
+
+Do you want to [know more](project) about this project?
+
+### Full Portfolio
+Please, see below a summary of a few projects showcasing my Data Science skills.
 
 |Skill \ Technology     | [UCI Heart Disease](https://github.com/JPonsa/UCI_Heart_Disease) | [Card Fraud](https://github.com/JPonsa/card_fraud_detection/tree/main)|[Disaster Tweets](https://github.com/JPonsa/nlp_disaster_tweets) | [Causal Impact](https://github.com/JPonsa/causal_inference_ts) |
 |---------------------- |------------------------------|----------------------|----------------------|------------------------|
