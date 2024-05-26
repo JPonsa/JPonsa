@@ -19,7 +19,7 @@ Key learnings:
 - Use high-level frameworks such as Llama-index and LangChain for txt-2-SQL and txt-2-Cypher.
 - How to evaluate Large Language Models.
 
-Do you want to [know more](project) about this project?
+Do you want to [know more](https://github.com/JPonsa/ctgov_rag/) about this project?
 
 ### Full Portfolio
 Please, see below a summary of a few projects showcasing my Data Science skills.
